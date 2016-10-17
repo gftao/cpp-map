@@ -5,7 +5,7 @@
   pair<,>(,);
   
 1.2
-  map<,>();
+  map<,>::value_type();
   
 1.3
   map<type1,type2> k;
